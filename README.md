@@ -1,12 +1,23 @@
 Advanced-API
 =
 
+## Getting Started
+
+### Initialize the API (Required)
+
+```java
+AdvancedAPI.init();
+```
+
+### TODO
+
+* Add more information.
+
 ### Maven
 
-Add the following to your pom.xml
+Add the following to your "pom.xml"
 
 ```xml
-
 <project>
 
 	<repositories>
