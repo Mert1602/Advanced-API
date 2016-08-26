@@ -15,9 +15,9 @@ Add the following to your pom.xml
 			<id>Mert1602-Advanced-API-mvn-repo</id>
 			<url>https://raw.githubusercontent.com/Mert1602/Advanced-API/mvn-repo/</url>
 			<snapshots>
-            <enabled>true</enabled>
-            <updatePolicy>always</updatePolicy>
-        </snapshots>
+				<enabled>true</enabled>
+				<updatePolicy>always</updatePolicy>
+			</snapshots>
 		</repository>
 	</repositories>
 
