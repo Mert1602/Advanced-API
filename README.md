@@ -7,6 +7,8 @@ Add the following to your pom.xml
 
 ```xml
 
+<project>
+
 	<repositories>
 		<repository>
 			<id>Mert1602-Advanced-API-mvn-repo</id>
@@ -50,4 +52,6 @@ Add the following to your pom.xml
 			</plugin>
 		</plugins>
 	</build>
+	
+</project>
 ```
